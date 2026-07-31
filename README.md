@@ -1,34 +1,42 @@
 # Hi, I'm Pratik 👋
 
-Aspiring Computer Science student passionate about tech, programming, and building projects.
+**Aspiring Backend Developer** passionate about building scalable applications, writing clean code, and continuously learning modern web technologies.
 
 ## 🚀 Currently Learning
 
-* JavaScript
-* React
-* Python
-* Django
-* AWS & DevOps
+- TypeScript
+- Express.js
+- PostgreSQL
+- Backend Architecture & REST APIs
+- AWS & DevOps
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-* React (learning)
+### Languages
+- HTML
+- CSS
+- JavaScript
 
-## 🎯 Goals
+### Backend
+- Express.js *(Learning)*
+- PostgreSQL *(Learning)*
+- TypeScript *(Learning)*
 
-* Build real-world projects
-* Improve problem-solving skills
-* Learn full-stack development
-* Explore AI and cloud technologies
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
 
-## 📌 About Me
+## 🎯 Current Goals
 
-I enjoy learning new technologies, experimenting with ideas, and improving my development skills step by step.
+- 🚀 Build production-ready backend projects
+- 🔐 Learn authentication & authorization
+- 🗄️ Master databases and API design
+- ☁️ Explore AWS, Docker, and DevOps
+- 🤖 Learn AI integration with web applications
 
----
+## 📖 About Me
 
-“Keep building.”
+I'm a Computer Science student who enjoys solving problems and turning ideas into practical applications. My current focus is backend development, where I'm learning to build reliable APIs, work with databases, and write maintainable code while continuously improving my skills.
+
+> **"Keep building. Keep learning. Keep shipping."** 🚀
