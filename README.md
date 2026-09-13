@@ -1,26 +1,130 @@
-# 💫 About Me:
-🔭 I’m currently working on TypeScript projects, backend development, and open-source contributions<br>👯 I’m looking to collaborate on open-source projects and developer tools<br>🤝 I’m looking for help with building scalable backend systems and contributing to larger projects<br>🌱 I’m currently learning Docker, NestJS, PostgreSQL, cloud technologies, and system design<br>💬 Ask me about TypeScript, Node.js, Git, Docker, and backend development<br>⚡ Fun fact: I enjoy learning by building real projects and breaking things until I understand how they
+# Hey, I'm Pratik 👋
 
+**Backend-focused Developer | TypeScript • Node.js • PostgreSQL**
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PRDXdotEXE) 
+I’m a developer who enjoys building backend systems, learning how things work under the hood, and turning ideas into real projects.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PRDXdotEXE&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PRDXdotEXE&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PRDXdotEXE&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PRDXdotEXE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PRDXdotEXE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Currently focused on **TypeScript, Node.js, PostgreSQL, Docker, and backend architecture** while exploring cloud technologies, system design, and open source.
 
 ---
-[![](https://komarev.com/ghpvc/?username=PRDXdotEXE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+* 🔭 Building backend projects with **TypeScript & Node.js**
+* 🌱 Learning **Docker, NestJS, PostgreSQL, cloud technologies & system design**
+* 🛠️ Working on projects that involve **APIs, databases, authentication, and background processes**
+* 🤝 Looking to contribute to **open-source projects and developer tools**
+* 💡 Interested in building **scalable and maintainable backend systems**
+* ⚡ I learn best by building real projects, breaking things, and figuring out why they broke
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🐊 Gator
+
+A CLI-based RSS feed aggregator built with TypeScript and PostgreSQL.
+
+**Highlights:**
+
+* User registration and authentication
+* RSS feed management
+* Feed following system
+* Background feed aggregation
+* PostgreSQL database
+* Drizzle ORM
+* Database migrations
+
+**Tech:** `TypeScript` `Node.js` `PostgreSQL` `Drizzle` `Docker`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=PRDXdotEXE&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PRDXdotEXE&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=PRDXdotEXE&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://x.com/PRDXdotEXE">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+TypeScript
+   ↓
+Node.js
+   ↓
+PostgreSQL
+   ↓
+Docker
+   ↓
+NestJS
+   ↓
+Cloud & System Design
+```
+
+I'm working toward becoming a stronger backend developer by focusing not only on frameworks, but also on **databases, networking, Linux, architecture, deployment, and system design**.
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 👋
+
+⭐ Feel free to explore my repositories and follow my journey.
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=PRDXdotEXE\&color=blue\&style=flat-square)
