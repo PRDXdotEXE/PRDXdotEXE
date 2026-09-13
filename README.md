@@ -1,18 +1,18 @@
 # Hey, I'm Pratik 👋
 
-**Backend-focused Developer | TypeScript • Node.js • PostgreSQL**
+**Backend-focused Developer | TypeScript • Node.js • Express • PostgreSQL**
 
 I’m a developer who enjoys building backend systems, learning how things work under the hood, and turning ideas into real projects.
 
-Currently focused on **TypeScript, Node.js, PostgreSQL, Docker, and backend architecture** while exploring cloud technologies, system design, and open source.
+Currently focused on **TypeScript, Node.js, Express, PostgreSQL, Docker, and backend development**, while exploring cloud technologies, system design, and open source.
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 🔭 Building backend projects with **TypeScript & Node.js**
-* 🌱 Learning **Docker, NestJS, PostgreSQL, cloud technologies & system design**
-* 🛠️ Working on projects that involve **APIs, databases, authentication, and background processes**
+* 🔭 Building backend projects with **TypeScript, Node.js & Express**
+* 🌱 Learning **Docker, PostgreSQL, cloud technologies & system design**
+* 🛠️ Working with **APIs, databases, authentication, and backend services**
 * 🤝 Looking to contribute to **open-source projects and developer tools**
 * 💡 Interested in building **scalable and maintainable backend systems**
 * ⚡ I learn best by building real projects, breaking things, and figuring out why they broke
@@ -29,12 +29,12 @@ Currently focused on **TypeScript, Node.js, PostgreSQL, Docker, and backend arch
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ### Tools & Platforms
@@ -67,7 +67,7 @@ A CLI-based RSS feed aggregator built with TypeScript and PostgreSQL.
 * Drizzle ORM
 * Database migrations
 
-**Tech:** `TypeScript` `Node.js` `PostgreSQL` `Drizzle` `Docker`
+**Tech:** `TypeScript` `Node.js` `PostgreSQL` `Drizzle`
 
 ---
 
@@ -101,19 +101,19 @@ A CLI-based RSS feed aggregator built with TypeScript and PostgreSQL.
 
 ```text
 TypeScript
-   ↓
-Node.js
-   ↓
+    ↓
+Node.js + Express
+    ↓
 PostgreSQL
-   ↓
+    ↓
 Docker
-   ↓
-NestJS
-   ↓
-Cloud & System Design
+    ↓
+Cloud
+    ↓
+System Design
 ```
 
-I'm working toward becoming a stronger backend developer by focusing not only on frameworks, but also on **databases, networking, Linux, architecture, deployment, and system design**.
+I'm focused on becoming a stronger backend developer by learning not only frameworks, but also **databases, Linux, networking, deployment, APIs, and system design**.
 
 ---
 
@@ -121,7 +121,7 @@ I'm working toward becoming a stronger backend developer by focusing not only on
 
 ### Thanks for visiting! 👋
 
-⭐ Feel free to explore my repositories and follow my journey.
+⭐ Feel free to explore my repositories.
 
 </div>
 
